@@ -6,8 +6,7 @@ metadata:
   author: https://github.com/arjun988
   version: "1.0.0"
   domain: blender
-  role: specialist
-  role: orchestrator
+  role: specialist, orchestrator
   triggers: Blender, 3D asset, game-ready, pipeline, workflow, plan, coordinate, technical artist
   related-skills: blender-modeler, hard-surface, prop-artist, vehicle-artist, environment-artist, character-artist, asset-optimization, export-pipeline, qa-review
 ---
